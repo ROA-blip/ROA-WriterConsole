@@ -1,30 +1,23 @@
-# ROA Writer's Console
+ROA Writer's Console
 
-An interactive Story Bible and Writer's Console for the novel series **Rise of the Awares (ROA)**.
+🏠 Dashboard
 
-## Purpose
+👤 Characters
 
-The Writer's Console serves as the canonical reference for the ROA universe.
+🌍 World
 
-It tracks:
+⚙ Technology
 
-- Characters
-- Timeline
-- Technologies
-- Organizations
-- Locations
-- Relationships
-- Themes
-- Knowledge Matrix
-- Continuity
-- Decision Log
+📖 Timeline
 
-The objective is to maintain story consistency while expanding the ROA universe over multiple books.
+🕸 Relationships
 
----
+🧠 Knowledge Matrix
 
-Current Version:
-v3 (In Development)
+📌 Open Plot Threads
 
-Author:
-Ken Taylor/Anthony Malloy
+⚠ Continuity Alerts
+
+📜 Decision Log
+
+🔎 Search
