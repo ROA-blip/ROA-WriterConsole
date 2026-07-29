@@ -1,0 +1,21 @@
+ROA-WriterConsole/
+
+index.html
+
+css/
+    style.css
+
+js/
+    app.js
+
+data/
+    characters.json
+    timeline.json
+    locations.json
+    technology.json
+    factions.json
+    themes.json
+    decisions.json
+    continuity.json
+
+images/
