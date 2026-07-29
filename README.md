@@ -47,4 +47,4 @@ The Writer's Console is the canonical reference for the ROA universe. It is desi
 
 🚧 Under Development
 
-Author: Ken Taylor
+Author: Ken Taylor/Anthony Malloy
